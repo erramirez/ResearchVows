@@ -1,0 +1,57 @@
+---
+title: "Renewing Our Vows in Research"
+author: "Ernesto"
+date: "4/23/2017"
+output: html_document
+---
+
+![vows hero image](https://raw.github.com/erramirez/ResearchVows/master/Images/unsplash_vows.jpg)
+# Renewing our Vows in Research
+## A modest proposal for next-generation research engagement
+
+![divider 1](https://github.com/erramirez/ResearchVows/master/Images/medium_sage_divider1.jpg)
+
+This week I was lucky to be invited to attend the 2017 Sage Assembly hosted by [Sage Bionetworks](http://sagebase.org/). If you haven’t heard of Sage, let me quickly catch you up. They’re a Seattle-based nonprofit focused on creating and supporting new methods of conducting biomedical research. Their work has traditionally focused on bringing principles of openness and collaboration that they apply to tools, communities, and processes connected to health research. You may know them from some of their recent work over the last few years helping to launch Apple’s open source ResearchKit framework. As part of that work they collaborated with research groups and patient communities to develop two of the first five ResearchKit apps that were launched in 2015: [mPower](http://parkinsonmpower.org/) (Parkinson’s) and [Share the Journey](http://sharethejourneyapp.org/) (breast cancer survivorship). This framework and methodology has worked to leverage a combination of large-scale mobile computing devices, our phones, and the ability to remotely recruit and conduct measurements with thousands, or even tens of thousands of participants.
+
+In presentations and conversations about the future of mobile-centered health research with others at the Assembly it became clear that understanding how participants engage with this new method of research participation is of the utmost importance. You see, one of the main hopes of moving research to our phones is the ability to leverage the robust sensing capabilities built into the devices, as well as the opportunity to high-frequency longitudinal measurements. However, like in all research, most of the important data collection only occurs when participants actively take part — answering surveys, performing active measurement tasks, linking additional external data sources. Without that active and frequent participation the deep and long data that the next wave of research and analysis will depend on becomes short and shallow. We need to prevent the future creation of multiple small drips when the groundbreaking insights will depend on a firehose of information. To keep take this water metaphor one step further, we need to look for solutions to turn on the spigot.
+
+![divider 2](https://github.com/erramirez/ResearchVows/master/Images/medium_sage_divider2.jpg)
+
+In speaking with folks involved with directing the ongoing research mobile health research program a thought popped into my mind, *“What if we gave people the ability to tell us why they are participating in research?”* While I’m sure others have done this (ideas are rarely new), I wasn’t able to recall any of the mobile research applications implementing a process for collecting this information _(if this has been done let me know by responding/commenting here)_. That led me to think, if we ask people to tell us why they participated in research would that be useful information to provide as feedback to them during the course of their participation? Would reminding a participant of why they signed up in the first place help keep them engaged? I brought this idea up with [Meg Doerr](https://twitter.com/megdoerr), a principal scientist and researcher at Sage and during that conversation she reminded me of research she led at Sage exploring responses to a general feedback prompt presented to mPower users.
+
+![mpower feedback screen](http://github.com/erramirez/ResearchVows//master/Images/mpower.jpg))
+The mPower feedback prompt.
+
+In their [published research](http://mhealth.jmir.org/2017/2/e14/), they found that some participants responded to this general prompt by “illustrating their understanding of the core purposes of the study.” Clearly there are participants that understand why the the research is being conducted and can elucidate their own reasons for downloading the app, consenting, and participating in the research activities. No only do they understand these things, they are also willing to inform researchers. During a 6-month period the research team at Sage was able to collect a total of 7483 responses to the prompt from 28% of the enrolled participants (2758 out of 9846 participants).
+
+What follows is a short design exercise to explore what it would look like to take this idea of asking participants why the participated and using that information as a reminder to possibly spur or maintain engagement in the research process.
+
+![divider 3](https://github.com/erramirez/ResearchVows/master/Images/medium_sage_divider3.jpg)
+
+## First , You Ask
+This shouldn’t be surprising, but if you want to learn why people are engaging in research you have to ask them. I took the basic design premise of the general prompt used in the mPower application and edited it to reflect how this might be done.
+
+## Then, You Remind
+The second step, which I’m still not completely sure is necessary or potentially impactful, would be to use the entered text to reflect these reasons for participation entries back to the participant. The following reminder entries are taken from actual mPower participant responses, as included in the [above mentioned research](http://mhealth.jmir.org/2017/2/e14/) by Meg and her colleagues.
+
+![reminder example 1](http://github.com/erramirez/ResearchVows//master/Images/mpower_reminderscreen2.jpg)]
+[Respondent c073] http://mhealth.jmir.org/2017/2/e14/
+
+![reminder example 3](http://github.com/erramirez/ResearchVows//master/Images/mpower_reminderscreen3.jpg)]
+[Participant d8ca] http://mhealth.jmir.org/2017/2/e14/
+
+## The Elephant in the Room
+There is a big piecing missing from this process if we are taking the idea of vows here literally. Marriage vows are between two parties. The above process is completely one-sided, requiring the participant to divulge deeps truths about what they feel and believe. What about the researcher? What vow do they take in this process? Do we, as a community of scientists have the responsibility to be open and honest with our participant partners about why we’re asking them to spend time and energy jumping through the hoops we design in our quest for knowledge? Of course we do! But that honestly is typically baked into the obtuse language of the consent process. But what if it was updated to be more personal, more human? How would that look? I don’t know. Maybe there are “meet a researcher” splash screens. Maybe there is a consistently updated implementation of “who were, what we’re doing, and why” type of communication. This is an important piece of the process that shouldn’t just end with two paragraph statement about the purpose of the study.
+
+![divider 4](https://github.com/erramirez/ResearchVows/master/Images/medium_coffee_divider4.jpg)
+
+
+Over a hot cup of coffee on a cloudy Seattle morning I brought this idea up to Meg Doerr and she again displayed the calm brilliance I had observed throughout the assembly by remarking, “It’s like renewing your vows.” _(The title of this piece is due to her brilliance.)_
+
+Why do we renew vows? Many times it’s to celebrate milestones, other times it’s may be intended to strengthen the promise to have and to hold after tough times. But, what I hear when I hear the phrase “renewing our vows” is that there is importance and power in taking the time to reiterate a commitment. With marriage, that is commitment to a partner. What would that look like in a research setting? What are the vows we’re taking when we choose to participate in a study? When we choose to ask people to participate as researcher? Why are we taking them? These seem like interesting questions, useful even.
+
+I’ve been thinking about this for about this for a few days, which is admittedly not long enough, so the ideas I’ve sketched out above are spectacularly underdeveloped. But if the Sage Assembly taught me anything it is that working in the open is powerful and important, and that willingness to be embarrassed in public is part of the deal (shout out to [John Wilbanks](https://twitter.com/wilbanks)). With that in mind I invite you to comment, copy, and share.
+
+---
+
+_I've posted the content of this post here on Github, including images and design files. Icons included in this post are from [Sage Bionetworks](https://github.com/Sage-Bionetworks/PCC-Toolkit/tree/master/Icons-and-Animations) except for the reminder icon (created by [Ryan Sun for the Noun Project](https://thenounproject.com/search/?q=reminder&i=26413)), and the coffee mug (created by [Made for the Noun Project](https://thenounproject.com/search/?q=coffee&i=940863))._
